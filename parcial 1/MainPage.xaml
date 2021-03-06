@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="parcial_1.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Black"/>
+        <Label Text="Hola piensa en un número te lo adivinaré"/>
+            <Label Text= "Perfecto ahora deberás multiplicarlo por dos"/>
+            <Label Text="Excelente ahora deberás sumarle 8 a tu resultado"/>
+            <Label Text="Ahora deberás multiplicar el resultado por 5"/>
+            <Label Text="Escribe el resultado que te salio de la operación y adivinare tu número :)"/>
+    </StackLayout>
+
+</ContentPage>
